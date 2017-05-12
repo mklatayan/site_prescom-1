@@ -1,0 +1,90 @@
+header {
+	text-align : center;
+}
+
+body{
+    background-color: white;
+}
+
+table {
+    cellspacing:15px;
+}
+
+nav li {
+	display : inline;
+	list-style : none;
+	border-style : solid;
+	border-width : 1px;
+}
+
+nav ul {
+	padding-left : 0;
+}
+
+nav a {
+	margin : 0 4em;
+	font-weight : bold;
+}
+
+footer {
+    clear: both;
+}
+
+#corps {
+	clear:both;
+	display:block;
+}
+
+}
+
+#images{
+	float:left;
+	width:710px;
+	position:relative;
+	display:block;
+	margin:0;
+	padding:0;
+}
+
+
+fieldset.connexion {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+fieldset.inscription{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+	line-height : 25px;	
+}
+
+
+fieldset.contacter {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+	line-height : 25px;
+}
+
+
+
+div.main{
+background-color: white;
+margin-left: 0px;
+}
+
+
+#banniere{
+width:1400px;
+height:120px;
+}
+
+footer{
+background-color: white;
+position:relative;
+clear:both;
+bottom:0;
+}
+
